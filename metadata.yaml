@@ -1,0 +1,35 @@
+_repo: English-Villages_9197
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 9197/9197-h/images/title.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Ditchfield, P. H. (Peter Hampson)
+    aliases:
+    - Ditchfield, Peter H. (Peter Hampson)
+    - Ditchfield, Peter Hampson
+    birthdate: 1854
+    deathdate: 1930
+    gutenberg_agent_id: '2767'
+    url: http://www.gutenberg.org/2009/agents/2767
+description: Cover -- Contents.
+gutenberg_issued: '2004-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9197'
+  lccn: '02007572'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Villages -- England'
+- !lcsh 'England -- Social life and customs'
+- !lcsh 'England -- Antiquities'
+- GITenberg
+title: English Villages
+url: http://www.gutenberg.org/ebooks/9197
